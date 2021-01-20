@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Prototype 1 Unit1 player control 11-january-2021",
+"dataUrl": "tankpublishing.data.unityweb",
+"wasmCodeUrl": "tankpublishing.wasm.code.unityweb",
+"wasmFrameworkUrl": "tankpublishing.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
